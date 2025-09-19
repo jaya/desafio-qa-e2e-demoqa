@@ -2,7 +2,7 @@
 
 ## 🌟 Objetivo do Desafio
 
-Este desafio usa o **DemoQA — Book Store Application** para validar o fluxo crítico **Login → Adicionar favorito (coleção) → Ver favoritos → Logout**.  
+Este desafio usa o [**DemoQA — Book Store Application**](https://demoqa.com/login?utm_source=chatgpt.com) para validar o fluxo crítico **Login → Adicionar favorito (coleção) → Ver favoritos → Logout**.  
 O candidato deverá **especificar em Gherkin e implementar** cenários E2E com **Playwright (Python)** e **Behave**, mantendo foco em **clareza**, **robustez** e **design de testes**.
 
 O objetivo é avaliar sua capacidade de:
